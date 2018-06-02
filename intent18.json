@@ -1,0 +1,74 @@
+{
+	"id": "d1998a8a-ea7e-4b39-ba30-c41fb5908d38",
+	"name": "18",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": 0,
+					"speech": [
+						"Kee Malesky directs research at IVOW. Her 30-year career as a news librarian for National Public Radio prepared her for quick research and",
+						"Kee is Director of Research at IVOW. She is also the author of two books All Facts Considered and Learn Something New Every Day.",
+						"Kee is Director of Research at IVOW. In 2013, she was the recipient of several awards from international library organizations."
+					]
+				}
+			],
+			"defaultResponsePlatforms": {},
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"lastUpdate": 1524956232,
+	"fallbackIntent": false,
+	"events": [],
+	"userSays": [
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Kee Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Kee Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Kee Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		}
+	],
+	"followUpIntents": [],
+	"templates": []
+}

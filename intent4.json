@@ -1,0 +1,60 @@
+{
+	"id": "d1998a8a-ea7e-4b39-ba30-c41fb5908d38",
+	"name": "4",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": 0,
+					"speech": [
+						"Sure, did you know that each year on May 15, communities in New Mexico celebrate feast day of San Ysidro, the patron saint of farmers. Most of the festivals involve a procession and casting of rose petals on the waterway.",
+						"One story is about the tradition of feast day of San Ysidro, the patron saint of farmers. Each year on May 15 communities in New Mexico celebrate the waterways that provide irrigation for crops by putting rose petals in them."
+					]
+				}
+			],
+			"defaultResponsePlatforms": {},
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"lastUpdate": 1524956232,
+	"fallbackIntent": false,
+	"events": [],
+	"userSays": [
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Tell us a story from IVOW's AI-powered database",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Tell us a story from IVOW's AI-powered database",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		}
+	],
+	"followUpIntents": [],
+	"templates": []
+}

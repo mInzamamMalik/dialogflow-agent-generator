@@ -1,0 +1,74 @@
+{
+	"id": "d1998a8a-ea7e-4b39-ba30-c41fb5908d38",
+	"name": "23",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": 0,
+					"speech": [
+						"Awesome, please be in touch with our founder Davar Ardalan. Just send her an email: Davar@ivow.ai",
+						"Of course, we would love to hear from you. Please get in touch with our founder Davar Ardalan - her email is Davar@ivow.ai",
+						"Certainly, reach out to our founder and she will be more than happy to share more on IVOW - her email is Davar@ivow.ai and on Twitter @idavar"
+					]
+				}
+			],
+			"defaultResponsePlatforms": {},
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"lastUpdate": 1524956232,
+	"fallbackIntent": false,
+	"events": [],
+	"userSays": [
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "How can I learn more about IVOW?",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "How can I learn more about IVOW?",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "How can I learn more about IVOW?",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		}
+	],
+	"followUpIntents": [],
+	"templates": []
+}

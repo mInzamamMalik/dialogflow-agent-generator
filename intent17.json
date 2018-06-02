@@ -1,0 +1,74 @@
+{
+	"id": "d1998a8a-ea7e-4b39-ba30-c41fb5908d38",
+	"name": "17",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": 0,
+					"speech": [
+						"Robert Malesky leads content creation at IVOW. He is a veteran NPR News journalist for was in charge of Weekend Edition Sunday for over two decades.",
+						"Robert is leading journalist at IVOW.  Over the course of his career at NPR News, he worked in both arts and news coverage, winning a number of broadcasting awards.",
+						"Robert leads content design at IVOW and he writes a well-received blog on local history called Bygone Brookland."
+					]
+				}
+			],
+			"defaultResponsePlatforms": {},
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"lastUpdate": 1524956232,
+	"fallbackIntent": false,
+	"events": [],
+	"userSays": [
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more on Bob Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more on Bob Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more on Bob Malesky",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		}
+	],
+	"followUpIntents": [],
+	"templates": []
+}

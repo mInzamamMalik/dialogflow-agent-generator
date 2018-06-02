@@ -1,0 +1,74 @@
+{
+	"id": "d1998a8a-ea7e-4b39-ba30-c41fb5908d38",
+	"name": "16",
+	"auto": true,
+	"contexts": [],
+	"responses": [
+		{
+			"resetContexts": false,
+			"affectedContexts": [],
+			"parameters": [],
+			"messages": [
+				{
+					"type": 0,
+					"speech": [
+						"Ben is Director of Storytelling Technology at IVOW",
+						"Ben directs storytelling technology at IVOW and has extensive background leveraging drone storytelling, virtual reality, 360° video, spatial audio, 3D reconstructions, and sensor platforms.",
+						"Ben is leading storytelling technology research at IVOW and ways to make technology and data more democratic for citizens"
+					]
+				}
+			],
+			"defaultResponsePlatforms": {},
+			"speech": []
+		}
+	],
+	"priority": 500000,
+	"webhookUsed": false,
+	"webhookForSlotFilling": false,
+	"lastUpdate": 1524956232,
+	"fallbackIntent": false,
+	"events": [],
+	"userSays": [
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Ben Kreimer",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Ben Kreimer",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		},
+		{
+			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
+			"data": [
+				{
+					"text": "Share more about Ben Kreimer",
+					"userDefined": false
+				}
+			],
+			"isTemplate": false,
+			"count": 0,
+			"updated": 1522830706,
+			"isAuto": false
+		}
+	],
+	"followUpIntents": [],
+	"templates": []
+}

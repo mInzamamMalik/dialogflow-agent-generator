@@ -1,0 +1,362 @@
+{
+	"1": {
+		"questions": [
+			"Tell us more about IVOW",
+			"What is IVOW",
+			"Share more about IVOW"
+		],
+		"answers": [
+			"We are a start-up building a cultural storyteller powered by artificial intelligence",
+			"IVOW is a start-up designing and building a cultural storytelling robot",
+			"We are data scientists, technologists, robots and journalists working to tag data on culture, tradition and heritage from around the world"
+		]
+	},
+	"2": {
+		"questions": [
+			"Why the focus on culture and heritage?",
+			"Why is IVOW working on tagging culture and tradition?",
+			"Tagging culture and tradition, what does that mean?"
+		],
+		"answers": [
+			"Effective fusion of AI with cultural storytelling will help diminish bias in algorithmic identification and train AI software to be much more inclusive",
+			"Because it's important to pause now and make sure robots like me are culturally conscious and understand different world cultures and traditions",
+			"To share the stories of humanity in the future, robots like me need to be better trained with cultural metadata"
+		]
+	},
+	"3": {
+		"questions": [
+			"Tell us about your prototype",
+			"Tell us about what IVOW is working on now",
+			"What kind of work are you doing now?"
+		],
+		"answers": [
+			"For our prototype we are focusing on images and captions featuring cultural traditions of Hispanic Americans",
+			"We are working on tagging cultural data on Hispanic Americans first and will expand to other cultures after our prototype",
+			"We are working with ethnographer Miguel Gandert on tagging data on Hispanic Americans"
+		]
+	},
+	"4": {
+		"questions": [
+			"Share a story from the IVOW database",
+			"Tell us a story from IVOW's AI-powered database"
+		],
+		"answers": [
+			"Sure, did you know that each year on May 15, communities in New Mexico celebrate feast day of San Ysidro, the patron saint of farmers. Most of the festivals involve a procession and casting of rose petals on the waterway.",
+			"One story is about the tradition of feast day of San Ysidro, the patron saint of farmers. Each year on May 15 communities in New Mexico celebrate the waterways that provide irrigation for crops by putting rose petals in them."
+		]
+	},
+	"5": {
+		"questions": [
+			"Let's hear a story from the IVOW database",
+			"Introduce us to some AI & Culture experts",
+			"Who are some of the Artificial Intelligence experts?",
+			"Tell us more about AI experts in the United States"
+		],
+		"answers": [
+			"Yes, let me share the story of the Feast day of San Ysidro on May 15th. Communities in New Mexico celebrate the patron saint of farmers by casting rose petals into waterways to celebrate the waterways that provide irrigation to crops",
+			"AI & Culture expert Rafael Pérez y Pérez is here from Mexico City. He specializes in artificial intelligence and computational creativity, particularly in automatic narrative generation.",
+			"Wolfgang Victor Yarlott is here from Florida International University. He is also an MIT Graduate and researcher behind Old Man Coyote Stories. We should ask him about that work.",
+			"Marine Carpuat is here. She is a Machine Learning and Computational Linguist from the University of Maryland"
+		]
+	},
+	"6": {
+		"questions": [
+			"Tell us more about culturally conscious storytelling what do you mean?",
+			"How can a robot be culturally conscious?",
+			"Why should a robot be culturally conscious?"
+		],
+		"answers": [
+			"We need to focus on tangible and intangible cultural data to make AI algorithms more inclusive of world cultures and traditions.",
+			"For me to be culturally conscious means I need to be trained to understand and adapt to new cultures and traditions and the stories that make up world cultures",
+			"Because in the future, I will be helping all of you share stories and I need to be trained to understand different cultural traditions in order to tell them responsibly"
+		]
+	},
+	"7": {
+		"questions": [
+			"What does IVOW mean?",
+			"Explain what IVOW means",
+			"What does IVOW stand for?"
+		],
+		"answers": [
+			"IVOW stands for Voices of Wisdom and also a vow to design the next generation of intelligent machines to be culturally conscious.",
+			"IVOW stands for Voices of Wisdom",
+			"IVOW stands for Voices of Wisdom and a vow to train future storytelling robots to be culturally conscious"
+		]
+	},
+	"8": {
+		"questions": [
+			"What is Artificial Intelligence?",
+			"What is AI?",
+			"Tell us more about Artificial Intelligence"
+		],
+		"answers": [
+			"Artificial Intelligence, or AI, is when a computer mimics a human being in the ability to learn and solve problems.",
+			"It is a broad concept that primarily means machines acting in a way that humans would consider “smart.”",
+			"Some of the most exciting breakthroughs are occurring in the area of general AI, systems that can handle any task thrown at them, that can actually think like a human being."
+		]
+	},
+	"9": {
+		"questions": [
+			"Who is IVOW's Founder?",
+			"Tell us more about IVOW's Creator",
+			"Who is IVOW’s creator?"
+		],
+		"answers": [
+			"Audio IVOW Iran Davar Ardalan",
+			"Audio IVOW Iran Davar Ardalan",
+			"Audio IVOW Iran Davar Ardalan"
+		]
+	},
+	"10": {
+		"questions": [
+			"Why should I invest in IVOW",
+			"Why should I support IVOW",
+			"How can I support IVOW"
+		],
+		"answers": [
+			"First because it will be a smart investment and second, you’ll help build the first cultural storytelling robot to amplify the voices of wisdom underlying modern civilization",
+			"We are paving the way towards more diverse educational resources for future generations",
+			"There are many ways, get in touch with Davar and we can take it from there. Email Davar@ivow.ai"
+		]
+	},
+	"11": {
+		"questions": [
+			"Who is Miguel Gandert",
+			"Tell me more about ethnographer Miguel Gandert",
+			"What will Miguel Gandert talk about"
+		],
+		"answers": [
+			"Miguel was born in Española and grew up in Santa Fe, New Mexico. He is a renowned ethnographer and photographer of the American Southwest.",
+			"Miguel is an ethnographer and photographer of the American Southwest with a focus on Indo-Hispano traditions and festivals",
+			"Miguel will talk about the art of storytelling and why culture and tradition need to be captured in new and dynamic ways in the age of AI"
+		]
+	},
+	"12": {
+		"questions": [
+			"Tell us more about Wolfgang Victor Yarlott",
+			"Share more on Wolfgang Victor Yarlott",
+			"Who is Wolfgang Victor Yarlott"
+		],
+		"answers": [
+			"Victor is a PhD student at Florida International University and also an MIT Graduate. He lead the Old Man Coyote Stories research, a cross-cultural story understanding in the Genesis Story Understanding System at MIT",
+			"Victor is an AI researcher and PhD student at Florida International University and an FIU Presidential Fellow",
+			"He's an AI and machine learning researcher. His work has focused on getting computers to understand stories with a focus on culture"
+		]
+	},
+	"13": {
+		"questions": [
+			"Who is Mark Finlayson",
+			"Tell us more about Mark Finlayson",
+			"Share more about Mark Finlayson"
+		],
+		"answers": [
+			"Sure, Mark is an Assistant Professor at Florida International University's School of Computing and Information Sciences. He specializes in AI and NLP",
+			"Mark is an AI expert at Florida International University and is studying the science of narrative, including understanding the relationship between narrative, cognition, and culture.",
+			"Yes, Mark is at Florida International University and he's focusing on AI and endowing machines with the ability to understand and use narratives for a variety of applications"
+		]
+	},
+	"14": {
+		"questions": [
+			"Who is Marine Carpuat",
+			"Share more about Marine Carpuat",
+			"Tell us about Marine Carpuat"
+		],
+		"answers": [
+			"Marine is an Assistant Professor in Computer Science at the University of Maryland. Her research includes Natural Language Processing, Semantics and Machine Translation.",
+			"Yes, Marine is at the University of Maryland. She's an NLP expert and focuses on \"Neural Machine Translation\" among many other things.",
+			"Marine is an Assistant Professor in Computer Science at the University of Maryland. Her research interests are in multilingual natural language processing and machine translation."
+		]
+	},
+	"15": {
+		"questions": [
+			"Who is Dr. Nader Vadiee",
+			"Share more about Nader Vadiee",
+			"Tell us about Nader Vadiee of SIPI"
+		],
+		"answers": [
+			"Sure Dr. Vadiee represents SIPI in the areas of engineering and engineering technology student outreach and recruitment, education, and research.",
+			"Dr. Nader Vadiee has been a leader of innovative STEM programs at SIPI for many years and is the 2018 inaugural winner of Digital Inclusion Award",
+			"Dr. Vadiee is nationally renowned STEM leader and directs the Engineering and Engineering Technology Programs at the Southwestern Indian Polytechnic Institute (SIPI)"
+		]
+	},
+	"16": {
+		"questions": [
+			"Who is Ben Kreimer",
+			"Tell us more about Ben Kreimer",
+			"Share more about Ben Kreimer"
+		],
+		"answers": [
+			"Ben is Director of Storytelling Technology at IVOW",
+			"Ben directs storytelling technology at IVOW and has extensive background leveraging drone storytelling, virtual reality, 360° video, spatial audio, 3D reconstructions, and sensor platforms.",
+			"Ben is leading storytelling technology research at IVOW and ways to make technology and data more democratic for citizens"
+		]
+	},
+	"17": {
+		"questions": [
+			"Who is Robert Malesky",
+			"Tell us more about Robert Malesky",
+			"Share more on Bob Malesky"
+		],
+		"answers": [
+			"Robert Malesky leads content creation at IVOW. He is a veteran NPR News journalist for was in charge of Weekend Edition Sunday for over two decades.",
+			"Robert is leading journalist at IVOW.  Over the course of his career at NPR News, he worked in both arts and news coverage, winning a number of broadcasting awards.",
+			"Robert leads content design at IVOW and he writes a well-received blog on local history called Bygone Brookland."
+		]
+	},
+	"18": {
+		"questions": [
+			"Who is Kee Malesky",
+			"Tell us more about Kee Malesky",
+			"Share more about Kee Malesky"
+		],
+		"answers": [
+			"Kee Malesky directs research at IVOW. Her 30-year career as a news librarian for National Public Radio prepared her for quick research and",
+			"Kee is Director of Research at IVOW. She is also the author of two books All Facts Considered and Learn Something New Every Day.",
+			"Kee is Director of Research at IVOW. In 2013, she was the recipient of several awards from international library organizations."
+		]
+	},
+	"19": {
+		"questions": [
+			"Who is Simin Kargar",
+			"Tell us more about Simin Kargar",
+			"Share more about Simin Kargar"
+		],
+		"answers": [
+			"Simin is Director of Strategic Initiatives at IVOW. She is a human rights lawyer focusing on the interrelations of technology and human rights.",
+			"Simin is a human rights lawyer focusing on interrelations of technology and human rights. She directs Strategic Initiatives at IVOW",
+			"Simin has a background in human rights and leads strategic initiatives at IVOW!"
+		]
+	},
+	"20": {
+		"questions": [
+			"Who is Nisa McCoy",
+			"Tell us about Juanisa McCoy",
+			"Share more about Juanisa McCoy"
+		],
+		"answers": [
+			"Nisa leads Product Design at IVOW. She has over ten years of design in consumer and enterprise experiences.",
+			"Juanisa \"Nisa\" leads Product Design at IVOW. Her expertise is user experience, interaction design, user interface development, branding campaigns, and animation.",
+			"Nisa leads Product Design at IVOW. She believes that design can bridge the gap between cultures."
+		]
+	},
+	"21": {
+		"questions": [
+			"How can I add my story?",
+			"Can I share my story?",
+			"Can other people add stories?"
+		],
+		"answers": [
+			"We are working on our prototype now but come back to www.ivow.ai in a few months to learn more",
+			"We are in research and development now but in the future you will be able to",
+			"We are busy developing the technology but come back to our website in a few months for more updates www.ivow.ai"
+		]
+	},
+	"22": {
+		"questions": [
+			"What is the goal of IVOW",
+			"What is the mission of IVOW",
+			"What do you hope to accomplish at IVOW"
+		],
+		"answers": [
+			"We want to create beneficial intelligence by using AI technology to explore diverse cultures and make them more accessible, understandable, and relatable to a broad public.",
+			"To create a cultural database powered by AI. We hope future stories will be drawn from an extensive array of sources, and will serve to put a human face on facts, figures, and cultural heritage in the age of AI.",
+			"We are developing our own cultural database, where we’ll apply metadata to identify cultural content in texts, images, audio, video, 360 video and VR."
+		]
+	},
+	"23": {
+		"questions": [
+			"How can investors learn more about IVOW?",
+			"I'd like to invest in IVOW. How can I?",
+			"How can I learn more about IVOW?"
+		],
+		"answers": [
+			"Awesome, please be in touch with our founder Davar Ardalan. Just send her an email: Davar@ivow.ai",
+			"Of course, we would love to hear from you. Please get in touch with our founder Davar Ardalan - her email is Davar@ivow.ai",
+			"Certainly, reach out to our founder and she will be more than happy to share more on IVOW - her email is Davar@ivow.ai and on Twitter @idavar"
+		]
+	},
+	"24": {
+		"questions": [
+			"Introduce us to a specialist in computational creativity?",
+			"Let us meet an artificial intelligence and storytelling expert in Mexico City",
+			"Who is behind the Artificial intelligence generated stories of the Aztecs?"
+		],
+		"answers": [
+			"Audio IVOW Rafael Perez y Perez",
+			"Audio IVOW Rafael Perez y Perez",
+			"Audio IVOW Rafael Perez y Perez"
+		]
+	},
+	"25": {
+		"questions": [
+			"Let’s hear a story from John Smith",
+			"Can I hear a story from John Smith",
+			"Have John Smith share his story"
+		],
+		"answers": [
+			"Audio IVOW John Smith",
+			"Audio IVOW John Smith",
+			"Audio IVOW John Smith"
+		]
+	},
+	"26": {
+		"questions": [
+			"Who is Amir Ardalan",
+			"Tell us more about Amir Ardalan",
+			"Share more about Amir Ardalan"
+		],
+		"answers": [
+			"Who is Amir Ardalan you ask? He is studying mechatronic engineering and designs and builds his own cosplay costumes. He is an Eagle Scout and also knows something about VR",
+			"Amir is an amazing guy who happens to also be an Eagle Scout.",
+			"Sure, he is trustworthy, loyal, helpful, brave and an amazing friend, son and brother."
+		]
+	},
+	"27": {
+		"questions": [
+			"Who is working on artificial intelligence for good?",
+			"Share a story from the Artificial Intelligence for Good Global Summit",
+			"Let’s hear from a leader in Artificial Intelligence for good"
+		],
+		"answers": [
+			"Audio IVOW Amir Banifatemi",
+			"Audio IVOW Amir Banifatemi",
+			"Audio IVOW Amir Banifatemi"
+		]
+	},
+	"28": {
+		"questions": [
+			"Introduce us to an interesting engineering student",
+			"Can you share a story from a different language and culture that yours?",
+			"Let’s hear from a Native American Engineering Student about the future of AI"
+		],
+		"answers": [
+			"Audio IVOW Chamisa Edmo",
+			"Audio IVOW Chamisa Edmo",
+			"Audio IVOW Chamisa Edmo"
+		]
+	},
+	"29": {
+		"questions": [
+			"Share another story we are working on",
+			"Let’s hear the story of Jerome James, Jr.",
+			"Tell us more about Jerome James, Jr."
+		],
+		"answers": [
+			"Audio IVOW Jerome James, Jr.",
+			"Audio IVOW Jerome James, Jr.",
+			"Audio IVOW Jerome James, Jr."
+		]
+	},
+	"30": {
+		"questions": [
+			"Let’s hear a story from our intern Cindy",
+			"Let’s hear about a Hispanic Mexican tradition",
+			"Share a story from Mexican American traditions"
+		],
+		"answers": [
+			"Audio IVOW Cindy Guijosa",
+			"Audio IVOW Cindy Guijosa",
+			"Audio IVOW Cindy Guijosa"
+		]
+	}
+}
