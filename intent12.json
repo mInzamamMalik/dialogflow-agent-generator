@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"Victor is a PhD student at Florida International University and also an MIT Graduate. He lead the Old Man Coyote Stories research, a cross-cultural story understanding in the Genesis Story Understanding System at MIT",
-						"Victor is an AI researcher and PhD student at Florida International University and an FIU Presidential Fellow",
-						"He's an AI and machine learning researcher. His work has focused on getting computers to understand stories with a focus on culture"
+						"ok, turning on the fan"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "Who is Wolfgang Victor Yarlott",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Who is Wolfgang Victor Yarlott",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Who is Wolfgang Victor Yarlott",
+					"text": "turn on the fan",
 					"userDefined": false
 				}
 			],

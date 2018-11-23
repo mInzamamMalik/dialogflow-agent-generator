@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"Effective fusion of AI with cultural storytelling will help diminish bias in algorithmic identification and train AI software to be much more inclusive",
-						"Because it's important to pause now and make sure robots like me are culturally conscious and understand different world cultures and traditions",
-						"To share the stories of humanity in the future, robots like me need to be better trained with cultural metadata"
+						"ok, cast Outdoor Camera to Chromecast TV"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "Tagging culture and tradition, what does that mean?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Tagging culture and tradition, what does that mean?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Tagging culture and tradition, what does that mean?",
+					"text": "cast my Outdoor Camera to Chromecast TV",
 					"userDefined": false
 				}
 			],

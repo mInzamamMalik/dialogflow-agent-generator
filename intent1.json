@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"We are a start-up building a cultural storyteller powered by artificial intelligence",
-						"IVOW is a start-up designing and building a cultural storytelling robot",
-						"We are data scientists, technologists, robots and journalists working to tag data on culture, tradition and heritage from around the world"
+						"ok, setting Nest Secure to Away and Guarding"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "Share more about IVOW",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Share more about IVOW",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Share more about IVOW",
+					"text": "set Nest Secure to Away and Guarding",
 					"userDefined": false
 				}
 			],

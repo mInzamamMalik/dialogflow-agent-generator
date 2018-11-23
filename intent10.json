@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"First because it will be a smart investment and second, you’ll help build the first cultural storytelling robot to amplify the voices of wisdom underlying modern civilization",
-						"We are paving the way towards more diverse educational resources for future generations",
-						"There are many ways, get in touch with Davar and we can take it from there. Email Davar@ivow.ai"
+						"ok, dimming the lights"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "How can I support IVOW",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "How can I support IVOW",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "How can I support IVOW",
+					"text": "dim the lights",
 					"userDefined": false
 				}
 			],

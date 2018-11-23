@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"Audio IVOW Iran Davar Ardalan",
-						"Audio IVOW Iran Davar Ardalan",
-						"Audio IVOW Iran Davar Ardalan"
+						"seting Eco bee to 70 degrees."
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "Who is IVOW’s creator?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Who is IVOW’s creator?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Who is IVOW’s creator?",
+					"text": "set Eco bee to 70 degrees",
 					"userDefined": false
 				}
 			],

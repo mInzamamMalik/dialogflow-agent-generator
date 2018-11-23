@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"We need to focus on tangible and intangible cultural data to make AI algorithms more inclusive of world cultures and traditions.",
-						"For me to be culturally conscious means I need to be trained to understand and adapt to new cultures and traditions and the stories that make up world cultures",
-						"Because in the future, I will be helping all of you share stories and I need to be trained to understand different cultural traditions in order to tell them responsibly"
+						"ok, making it cooler"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "Why should a robot be culturally conscious?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Why should a robot be culturally conscious?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "Why should a robot be culturally conscious?",
+					"text": "make it cooler",
 					"userDefined": false
 				}
 			],

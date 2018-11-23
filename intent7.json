@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"IVOW stands for Voices of Wisdom and also a vow to design the next generation of intelligent machines to be culturally conscious.",
-						"IVOW stands for Voices of Wisdom",
-						"IVOW stands for Voices of Wisdom and a vow to train future storytelling robots to be culturally conscious"
+						"ok, showing the Front Doorbell on Kitchen TV"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "What does IVOW stand for?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "What does IVOW stand for?",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "What does IVOW stand for?",
+					"text": "show the Front Doorbell on Kitchen TV",
 					"userDefined": false
 				}
 			],

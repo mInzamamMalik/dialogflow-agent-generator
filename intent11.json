@@ -12,9 +12,7 @@
 				{
 					"type": 0,
 					"speech": [
-						"Miguel was born in Española and grew up in Santa Fe, New Mexico. He is a renowned ethnographer and photographer of the American Southwest.",
-						"Miguel is an ethnographer and photographer of the American Southwest with a focus on Indo-Hispano traditions and festivals",
-						"Miguel will talk about the art of storytelling and why culture and tradition need to be captured in new and dynamic ways in the age of AI"
+						"ok, turning down the thermostat"
 					]
 				}
 			],
@@ -33,33 +31,7 @@
 			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
 			"data": [
 				{
-					"text": "What will Miguel Gandert talk about",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "What will Miguel Gandert talk about",
-					"userDefined": false
-				}
-			],
-			"isTemplate": false,
-			"count": 0,
-			"updated": 1522830706,
-			"isAuto": false
-		},
-		{
-			"id": "b9c14d62-68e1-4ce2-a867-1016187fe0f5",
-			"data": [
-				{
-					"text": "What will Miguel Gandert talk about",
+					"text": "turn down the thermostat",
 					"userDefined": false
 				}
 			],
